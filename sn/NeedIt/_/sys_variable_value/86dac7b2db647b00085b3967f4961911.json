@@ -1,0 +1,14 @@
+{
+  "document": "wf_activity",
+  "document_key": "8adac7b2db647b00085b3967f496190d",
+  "order": 1710,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-05 15:08:13",
+  "sys_id": "86dac7b2db647b00085b3967f4961911",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-05 15:08:13",
+  "value": "// Set values for the task in this script.  Use the variable 'task' when setting additional values.\r\n// Note: This script is run after the task values are set using the Fields, Template or Values you have specified.\r\n//\r\n// For example:\r\n//     task.short_description = current.short_description;\r\ntask.short_description = current.u_request_type + ' : ' + current.u_what_needed + ' : ' + current.short_description;\r\ntask.description = current.description;\r\ntask.due_date = current.u_when_needed;  \r\ntask.assigned_to = \"beth.anglin\";\r\n",
+  "variable": "989cdb20c0a800661789b3de0f40214a"
+}

@@ -1,0 +1,21 @@
+{
+  "activity": "8edac7b2db647b00085b3967f4961912",
+  "condition": true,
+  "condition_default": null,
+  "condition_type": "standard",
+  "else_flag": false,
+  "error": false,
+  "event": false,
+  "event_name": null,
+  "is_positive": true,
+  "name": "Always",
+  "order": 0,
+  "short_description": null,
+  "skip_during_generate": false,
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-05 15:08:13",
+  "sys_id": "06dac7b2db647b00085b3967f4961913",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-05 15:08:13"
+}

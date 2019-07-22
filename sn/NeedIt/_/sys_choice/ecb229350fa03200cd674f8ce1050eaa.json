@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "state",
+  "hint": null,
+  "inactive": false,
+  "label": "Awaiting Approval",
+  "language": "en",
+  "name": "x_58872_needit_needit",
+  "sequence": 1,
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-01-26 20:14:39",
+  "sys_id": "ecb229350fa03200cd674f8ce1050eaa",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-01-26 20:14:39",
+  "value": 14
+}

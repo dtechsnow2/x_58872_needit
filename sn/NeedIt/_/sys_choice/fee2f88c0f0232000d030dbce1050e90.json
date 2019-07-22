@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "state",
+  "hint": null,
+  "inactive": false,
+  "label": "Work in Progress",
+  "language": "en",
+  "name": "x_58872_needit_needit_task",
+  "sequence": 1,
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-04-05 19:50:44",
+  "sys_id": "fee2f88c0f0232000d030dbce1050e90",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-04-05 19:50:44",
+  "value": 2
+}
