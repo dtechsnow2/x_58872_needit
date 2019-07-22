@@ -1,0 +1,23 @@
+{
+  "is_fulfillment": false,
+  "license_condition": null,
+  "license_model": "none",
+  "license_roles": null,
+  "name": "x_58872_needit_needit_task",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": null,
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-04-05 19:43:13",
+  "sys_id": "8524a1804f7a73009e9f0f5e9310c754",
+  "sys_mod_count": 0,
+  "sys_name": "x_58872_needit_needit_task",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": null,
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "ua_table_licensing_config_8524a1804f7a73009e9f0f5e9310c754",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-04-05 19:43:13"
+}

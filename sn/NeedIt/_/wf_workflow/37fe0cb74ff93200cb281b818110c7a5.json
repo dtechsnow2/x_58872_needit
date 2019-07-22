@@ -1,0 +1,21 @@
+{
+  "access": "public",
+  "description": "Request approval from Requested for's manager and set state value on reject or approve.",
+  "name": "NeedIt Approval",
+  "preview": null,
+  "sys_class_name": "wf_workflow",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-04-04 22:35:18",
+  "sys_id": "37fe0cb74ff93200cb281b818110c7a5",
+  "sys_mod_count": 0,
+  "sys_name": "NeedIt Approval",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": null,
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "wf_workflow_37fe0cb74ff93200cb281b818110c7a5",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-04-04 22:35:18",
+  "table": "x_58872_needit_needit",
+  "template": false,
+  "vars": null
+}

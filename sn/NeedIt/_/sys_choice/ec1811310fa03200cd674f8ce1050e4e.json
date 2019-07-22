@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "u_request_type",
+  "hint": null,
+  "inactive": true,
+  "label": "Developer Enablement",
+  "language": "en",
+  "name": "x_58872_needit_needit",
+  "sequence": 0,
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-01-26 19:28:14",
+  "sys_id": "ec1811310fa03200cd674f8ce1050e4e",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-02-08 22:44:34",
+  "value": "dev_enable"
+}

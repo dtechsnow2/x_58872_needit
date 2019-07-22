@@ -1,0 +1,22 @@
+{
+  "filter": "nameSTARTSWITHbe^nameISNOTEMPTY^EQ",
+  "group": null,
+  "last_used": "2017-04-05 19:30:01",
+  "mobile": true,
+  "roles": null,
+  "sys_class_name": "sys_filter",
+  "sys_created_by": "fred.luddy",
+  "sys_created_on": "2017-04-05 19:30:01",
+  "sys_id": "972e200c0f0232000d030dbce1050ee0",
+  "sys_mod_count": 0,
+  "sys_name": "mobile",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": null,
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "sys_filter_972e200c0f0232000d030dbce1050ee0",
+  "sys_updated_by": "fred.luddy",
+  "sys_updated_on": "2017-04-05 19:30:01",
+  "table": "sys_user",
+  "title": "mobile",
+  "user": "5137153cc611227c000bbd1bd8cd2005"
+}

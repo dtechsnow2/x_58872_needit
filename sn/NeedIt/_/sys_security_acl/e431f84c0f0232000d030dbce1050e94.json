@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Default access control on x_58872_needit_needit_task",
+  "name": "x_58872_needit_needit_task",
+  "operation": "create",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-04-05 19:43:12",
+  "sys_id": "e431f84c0f0232000d030dbce1050e94",
+  "sys_mod_count": 0,
+  "sys_name": "x_58872_needit_needit_task",
+  "sys_package": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_policy": null,
+  "sys_scope": "6ead8e780f603200cd674f8ce1050ed1",
+  "sys_update_name": "sys_security_acl_e431f84c0f0232000d030dbce1050e94",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2017-04-05 19:43:12",
+  "type": "record"
+}
